@@ -1,7 +1,7 @@
 <h1> LandingPage:<em>Red Dead Redemption 2</em> </h1>
 
 <p>Neste exercício, fiz uma tentativa de LandingPage utilizando como base
-um dos meus jogos preferidos da <a href="https://www.rockstargames.com/">Rockstar</a>, utilizando as tecnologias:</p>
+um dos meus jogos preferidos da <a href="https://www.rockstargames.com/" target="_blank">Rockstar</a>, utilizando as tecnologias:</p>
 <p>
   <ul>
     <p><li><img alt="logo-HTML" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><strong><em>HTML;</em></strong></p>
